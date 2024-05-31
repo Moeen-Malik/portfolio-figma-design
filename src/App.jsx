@@ -146,8 +146,8 @@ function App() {
             </div>
           </div>
         </section>
-        <section className="relative pt-80 pb-16">
-          <div className="w-3/4 relative m-auto bg-[rgba(47,47,138,0.600)] px-24 py-16 flex gap-8 rounded-lg">
+        <section className="relative pt-80 pb-56">
+          <div className="w-3/4 relative m-auto bg-[rgba(47,47,138,0.600)] z-10 px-24 py-16 flex gap-8 rounded-lg">
             <div className="flex flex-col gap-6 w-1/2 ">
               <h3 className="font-semibold text-2xl">Get in touch</h3>
               <p className="w-1/2 pb-20">
@@ -204,6 +204,16 @@ function App() {
           <img
             src="/src/assets/working.svg"
             className="absolute -top-[340px] -left-11 "
+            alt=""
+          />
+          <img
+            className="absolute -bottom-60 right-0 h-[800px]"
+            src="/src/assets/Illustration.svg"
+            alt=""
+          />
+          <img
+            className="absolute -bottom-48 left-0"
+            src="/src/assets/Illustration (1).svg"
             alt=""
           />
         </section>
