@@ -246,7 +246,7 @@ function App() {
               />
               <img className="w-10 h-10" src="/src/assets/YouTube.png" alt="" />
             </div>
-            <span className="bg-white w-[95%] m-auto h-[0.5px] flex justify-center"></span>
+            <span className="bg-white w-[94%] m-auto h-[0.5px] flex justify-center"></span>
             <p className="text-right text-white pt-4 pr-10">
               Terms of Service - Privacy Policy
             </p>
